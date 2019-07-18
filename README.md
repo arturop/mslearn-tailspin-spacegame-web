@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin110871/Space%20Game%20-%20web/_apis/build/status/arturop.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin110871/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
