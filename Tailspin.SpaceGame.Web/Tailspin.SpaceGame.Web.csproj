@@ -9,8 +9,8 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
-    <PackageReference Include="coverlet.msbuild">
-    <PackageReference Include="dotnet-reportgenerator-cli">
+    <PackageReference Include="coverlet.msbuild" />
+    <PackageReference Include="dotnet-reportgenerator-cli" />
   </ItemGroup>
 
   <ItemGroup>
